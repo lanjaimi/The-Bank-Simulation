@@ -5,7 +5,7 @@
 //
 // Author: Lahcen Anjaimi
 // Date: 04/02/19
-// Class: MET CS342
+// Class: MET CS34
 // Issues: None known
 //
 // Description:
